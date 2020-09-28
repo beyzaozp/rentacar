@@ -1,0 +1,270 @@
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe.config
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.pdb
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csprojAssemblyReference.cache
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Form1.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Properties.Resources.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.GenerateResource.cache
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.exe
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.pdb
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.loginpage.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.KiralamaIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.MusteriIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracIslemleri.resources
+C:\Users\busra\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Ayarlar.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe.config
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\rent a car.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csprojAssemblyReference.cache
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Ayarlar.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.KiralamaIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.loginpage.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.MusteriIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Properties.Resources.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.GenerateResource.cache
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.CoreCompileInputs.cache
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.exe
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\DAL.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Memory.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\DAL.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\DAL.dll.config
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Memory.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.CopyComplete
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe.config
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\rent a car.pdb
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\DAL.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Memory.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\DAL.pdb
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\DAL.dll.config
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Memory.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent a car.csprojAssemblyReference.cache
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracIslemleri.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracKirala.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Ayarlar.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Hakkında.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.HomePage.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.KiralamaIslemleri.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.loginpage.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.MusteriIslemleri.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Properties.Resources.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Raporlar.resources
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.GenerateResource.cache
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.CopyComplete
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent a car.exe
+C:\Users\busra\Downloads\proje\rent a car\rent a car\rent a car\obj\Debug\rent a car.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe.config
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\rent a car.exe
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\rent a car.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\DAL.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Memory.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\DAL.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\DAL.dll.config
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Buffers.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Collections.Immutable.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Memory.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.csprojAssemblyReference.cache
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.AracIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Ayarlar.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Hakkında.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.HomePage.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.KiralamaIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.loginpage.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.MusteriIslemleri.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Properties.Resources.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Raporlar.resources
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.GenerateResource.cache
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.CoreCompileInputs.cache
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.csproj.CopyComplete
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.exe
+C:\Users\ozpin\OneDrive\Masaüstü\Yeni klasör (2)\rent a car\rent a car\rent a car\obj\Debug\rent a car.pdb
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Hakkında.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.Raporlar.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.ÇalısanEkle.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.HomePageMANAGER.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.ArabaİslemleriCleaner.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.HomePageOfficer.resources
+C:\Users\ozpin\OneDrive\Masaüstü\rent a car\rent a car\rent a car\obj\Debug\rent_a_car.ŞifreHatırlatma.resources
